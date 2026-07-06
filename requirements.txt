@@ -13,3 +13,6 @@ openai
 streamlit-webrtc
 SpeechRecognition
 pydub
+streamlit
+audio-recorder-streamlit
+streamlit-webrtc
