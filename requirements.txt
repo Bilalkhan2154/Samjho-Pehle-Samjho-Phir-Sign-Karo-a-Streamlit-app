@@ -1,0 +1,15 @@
+streamlit
+pdfplumber
+pypdf
+python-docx
+Pillow
+pytesseract
+pdf2image
+deep-translator
+gTTS
+fpdf2
+pandas
+openai
+streamlit-webrtc
+SpeechRecognition
+pydub
