@@ -89,28 +89,6 @@ Prerequisites
 Python 3.9+
 Tesseract OCR (for scanned document/image support)
 Poppler (for scanned PDF rendering)
-1. Clone the repository
-Bash
 
-git clone https://github.com/<your-username>/samjho.git
-cd samjho
-2. Create a virtual environment
-Bash
-
-python -m venv venv
-source venv/bin/activate       # Windows: venv\Scripts\activate
-3. Install Python dependencies
-Bash
-
-pip install -r requirements.txt
-4. Install Tesseract OCR
-Ubuntu/Debian
-
-Bash
-
-sudo apt-get install tesseract-ocr poppler-utils
-macOS (Homebrew)
-
-Bash
-
-brew install tesseract poppler
+🚀 Live Demo
+[Launch Samjho App] :- https://samjho-pehle-samjho-phir-sign-karo-a-app-app-fzcuyt3jz8sw8krqg.streamlit.app/
